@@ -4,5 +4,5 @@ members = [
 ]
 
 [dependencies]
-mpl-token-metadata = "1.14.0"
+mpl-token-metadata = "1.2.5"
 solana-program = "1.10.0"
