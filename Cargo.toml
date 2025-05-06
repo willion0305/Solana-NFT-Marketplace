@@ -2,3 +2,7 @@
 members = [
     "programs/*"
 ]
+
+[dependencies]
+mpl-token-metadata = "1.14.0"
+solana-program = "1.10.0"
